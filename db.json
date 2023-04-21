@@ -1,5 +1,67 @@
 {
-  "products": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "dogs": [
+    {
+    "name": "German",
+    "age": 3,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 2
+  },
+  {
+    "name": "German",
+    "age": 5,
+    "gender": "Female",
+    "place": "jaipur",
+    "id": 3
+  },
+  {
+    "name": "SainT",
+    "age": 1,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 4
+  },
+  {
+    "name": "SainT",
+    "age": 8,
+    "gender": "Female",
+    "place": "jaipur",
+    "id": 5
+  },
+  {
+    "name": "German shephard",
+    "age": 6,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 6
+  },
+  {
+    "name": "German shephard",
+    "age": 6,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 7
+  },
+  {
+    "name": "German shephard",
+    "age": 6,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 8
+  },
+  {
+    "name": "German shephard",
+    "age": 6,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 9
+  },
+  {
+    "name": "German shephard",
+    "age": 6,
+    "gender": "Male",
+    "place": "jaipur",
+    "id": 10
+  }
   ]
 }
